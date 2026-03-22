@@ -1,6 +1,9 @@
 # Crypto Tracker 💰
 
-This project fetches real-time cryptocurrency prices using CoinGecko API.
+A Python-based application to fetch real-time cryptocurrency prices using CoinGecko API.
+
+## Project Type
+CLI (Command Line Application)
 
 ## Features
 - Get live price of any cryptocurrency
@@ -35,10 +38,17 @@ This project fetches real-time cryptocurrency prices using CoinGecko API.
 3. Enter coin names:
    Example: bitcoin, ethereum, dogecoin
 
+## Sample Output
+
+Enter coins: bitcoin, ethereum
+
+Bitcoin Price: 70000 USD  
+Ethereum Price: 2000 USD
+
 ## Example Coins
 - bitcoin
 - ethereum
 - dogecoin
 
 ## Note
-Make sure to enter correct coin IDs as per Coin
+Make sure to enter correct coin IDs as per CoinGecko.
